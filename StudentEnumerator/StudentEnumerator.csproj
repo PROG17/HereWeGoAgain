@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="CharbelStudent.cs" />
     <Compile Include="FeyonaStudent.cs" />
-    <Compile Include="UserStudent.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
