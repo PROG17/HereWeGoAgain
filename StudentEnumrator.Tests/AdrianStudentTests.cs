@@ -5,13 +5,13 @@ using StudentEnumerator;
 namespace StudentEnumrator.Tests
 {
     [TestClass]
-    public class UserStudentTests
+    public class AdrianStudentTests
     {
         [TestMethod]
         public void TestSayGoodmorning()
         {
             // Arrange
-            var student = new UserStudent();
+            var student = new AdrianStudent();
 
             // Act
             var result = student.SayGoodmorning();

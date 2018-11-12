@@ -5,19 +5,20 @@ using StudentEnumerator;
 namespace StudentEnumrator.Tests
 {
     [TestClass]
-    public class UserStudentTests
+    public class MimmiStudentTests
     {
         [TestMethod]
         public void TestSayGoodmorning()
         {
             // Arrange
-            var student = new UserStudent();
+            var student = new MimmiStudent();
+            var expected = "God morgon!";
 
             // Act
             var result = student.SayGoodmorning();
 
             // Assert
-            Assert.IsNotNull(result);
+            Assert.AreEqual(expected, result);
         }
     }
 }
