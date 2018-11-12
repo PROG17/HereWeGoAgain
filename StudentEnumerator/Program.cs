@@ -28,6 +28,7 @@ namespace StudentEnumerator
             repo.Add(new CharbelStudent());
             repo.Add(new UserStudent());
             repo.Add(new FeyonaStudent());
+            repo.Add(new MikaelStudent());
             repo.Add(new AdrianStudent());
             repo.Add(new TomasStudent());
             repo.Add(new JonasStudent());
