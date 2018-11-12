@@ -49,11 +49,15 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdrianStudentTests.cs" />
+    <Compile Include="TomasStudentTests.cs" />
     <Compile Include="CharbelStudentTests.cs" />
+    <Compile Include="JonasStudentTests.cs" />
     <Compile Include="AndreasStudentTests.cs" />
     <Compile Include="MimmiStudentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentTests.cs" />
+    <Compile Include="ThomasStudentTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
