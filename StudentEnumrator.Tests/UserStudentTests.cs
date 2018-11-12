@@ -5,7 +5,7 @@ using StudentEnumerator;
 namespace StudentEnumrator.Tests
 {
     [TestClass]
-    public class KalleStudentTests
+    public class UserStudentTests
     {
         [TestMethod]
         public void TestSayGoodmorning()
