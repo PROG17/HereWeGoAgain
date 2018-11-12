@@ -52,6 +52,7 @@
     <Compile Include="CharbelStudentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentTests.cs" />
+    <Compile Include="HelenaStudentTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
