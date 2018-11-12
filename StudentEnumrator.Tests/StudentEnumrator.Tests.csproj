@@ -54,6 +54,7 @@
     <Compile Include="MimmiStudentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentTests.cs" />
+    <Compile Include="ThomasStudentTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
