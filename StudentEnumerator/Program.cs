@@ -27,9 +27,11 @@ namespace StudentEnumerator
             repo.Add(new Teacher("Fredrik"));
             repo.Add(new CharbelStudent());
             repo.Add(new UserStudent());
-
-
             repo.Add(new FeyonaStudent());
+            repo.Add(new TomasStudent());
+            repo.Add(new JonasStudent());
+            repo.Add(new ThomasStudent());
+
         }
     }
 }
