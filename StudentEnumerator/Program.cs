@@ -27,7 +27,6 @@ namespace StudentEnumerator
         {
             repo.Add(new Teacher("Fredrik"));
             repo.Add(new CharbelStudent());
-            repo.Add(new MaqStudent());
         }
     }
 }
