@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CharbelStudent.cs" />
-    <Compile Include="HelenaStudent.cs" />
+        <Compile Include="HelenaStudent.cs" />
+    <Compile Include="MimmiStudent.cs" />
+
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
