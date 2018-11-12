@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="FeyonaStudentTests.cs" />
     <Compile Include="KalleStudentTests.cs" />
+    <Compile Include="AdrianStudentTests.cs" />
     <Compile Include="TomasStudentTests.cs" />
     <Compile Include="CharbelStudentTests.cs" />
     <Compile Include="JonasStudentTests.cs" />
