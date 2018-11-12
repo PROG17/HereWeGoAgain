@@ -57,7 +57,7 @@
 
     <Compile Include="MikaelStudentTests.cs" />
     <Compile Include="JonasStudentTests.cs" />
-
+    <Compile Include="AndreasStudentTests.cs" />
     <Compile Include="MimmiStudentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentTests.cs" />

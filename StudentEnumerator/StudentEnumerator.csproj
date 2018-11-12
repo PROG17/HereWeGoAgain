@@ -51,7 +51,7 @@
 
     <Compile Include="MikaelStudent.cs" />
     <Compile Include="JonasStudent.cs" />
-
+    <Compile Include="AndreasStudent.cs" />
     <Compile Include="MimmiStudent.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
