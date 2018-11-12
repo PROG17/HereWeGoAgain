@@ -44,10 +44,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdrianStudent.cs" />
+    <Compile Include="EgidioStudent.cs" />
     <Compile Include="TomasStudent.cs" />
     <Compile Include="CharbelStudent.cs" />
+    <Compile Include="JohannaStudent.cs" />
+    <Compile Include="MaqStudent.cs" />
+    <Compile Include="MikaelStudent.cs" />
+    <Compile Include="JensStudent.cs" />
     <Compile Include="JonasStudent.cs" />
+    <Compile Include="AndreasStudent.cs" />
     <Compile Include="MimmiStudent.cs" />
+    <Compile Include="UserStudent.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
