@@ -1,17 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StudentEnumerator;
+
 
 namespace StudentEnumrator.Tests
 {
     [TestClass]
-    public class CharbelStudentTests
+    public class MaqStudentTests
     {
         [TestMethod]
         public void TestSayGoodmorning()
         {
             // Arrange
-            var student = new CharbelStudent();
+            var student = new MaqStudent();
 
             // Act
             var result = student.SayGoodmorning();
@@ -20,6 +25,4 @@ namespace StudentEnumrator.Tests
             Assert.IsNotNull(result);
         }
     }
-
-
 }
