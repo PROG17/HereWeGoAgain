@@ -63,6 +63,7 @@
     <Compile Include="StudentTests.cs" />
     <Compile Include="ThomasStudentTests.cs" />
     <Compile Include="EgidioStudentTests.cs" />
+    <Compile Include="JensStudentTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

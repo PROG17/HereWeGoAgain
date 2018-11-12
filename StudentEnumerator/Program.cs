@@ -37,6 +37,7 @@ namespace StudentEnumerator
             repo.Add(new ThomasStudent());
             repo.Add(new UserStudent());
 
+            repo.Add(new JensStudent());
         }
     }
 }
