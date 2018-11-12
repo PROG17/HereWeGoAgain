@@ -46,9 +46,8 @@
     <Compile Include="AdrianStudent.cs" />
     <Compile Include="TomasStudent.cs" />
     <Compile Include="CharbelStudent.cs" />
-
+    <Compile Include="JohannaStudent.cs" />
     <Compile Include="MaqStudent.cs" />
-
     <Compile Include="MikaelStudent.cs" />
     <Compile Include="JonasStudent.cs" />
     <Compile Include="AndreasStudent.cs" />
