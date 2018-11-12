@@ -49,6 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FeyonaStudentTests.cs" />
     <Compile Include="KalleStudentTests.cs" />
     <Compile Include="CharbelStudentTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
