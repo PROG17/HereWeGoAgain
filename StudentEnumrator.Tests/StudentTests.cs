@@ -61,7 +61,7 @@ namespace StudentEnumrator.Tests
         {
             // Arrange
             var studentRepository = new StudentRepository();
-            int expectedCount = 3;
+            int expectedCount = 7;
 
             // Act
             Program.RegisterStudents(studentRepository);
