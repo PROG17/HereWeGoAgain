@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StudentEnumerator;
 
@@ -62,7 +62,8 @@ namespace StudentEnumrator.Tests
             // Arrange
             var studentRepository = new StudentRepository();
 
-           int expectedCount = 9;
+           int expectedCount = 13;
+
 
 
             // Act
