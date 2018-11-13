@@ -20,12 +20,20 @@ namespace StudentEnumerator
             {
                 Console.WriteLine(greeting);
             }
+            Console.ReadLine();
         }
 
         public static void RegisterStudents(StudentRepository repo)
         {
             repo.Add(new Teacher("Fredrik"));
             repo.Add(new CharbelStudent());
+
+
+            repo.Add(new MimmiStudent());
+
+
+            repo.Add(new MaqStudent());
+
 
             repo.Add(new MikaelStudent());
 
@@ -35,32 +43,21 @@ namespace StudentEnumerator
             repo.Add(new JonasStudent());
             repo.Add(new ThomasStudent());
 
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+
           
           
           
           
               repo.Add(new HelenaStudent());
           
+
+
+
+
+
+            repo.Add(new UserStudent());
+
+            repo.Add(new JensStudent());
 
 
         }
