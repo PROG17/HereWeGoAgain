@@ -2,16 +2,16 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StudentEnumerator;
 
-namespace StudentEnumerator.Tests
+namespace StudentEnumrator.Tests
 {
     [TestClass]
-    public class HelenaStudentTest
+    public class SamuelbStudentTests
     {
         [TestMethod]
-        public void TestHelenaSaysGoodMorning()
+        public void TestSayGoodmorning()
         {
             // Arrange
-            var student = new HelenaStudent();
+            var student = new SamuelbStudent();
 
             // Act
             var result = student.SayGoodmorning();

@@ -59,7 +59,7 @@ namespace StudentEnumerator
 
             repo.Add(new JensStudent());
 
-
+            repo.Add(new SamuelbStudent());
         }
     }
 }
