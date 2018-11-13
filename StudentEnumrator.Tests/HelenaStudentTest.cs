@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StudentEnumerator;
 
-namespace StudentEnumrator.Tests
+namespace StudentEnumerator.Tests
 {
     [TestClass]
     public class HelenaStudentTest
